@@ -1,5 +1,5 @@
 <?php
-if($_SERVER["REQUEST_METHOD"] == "POST"){
+if(isset($_SESSION["logado"]) && $_SERVER["REQUEST_METHOD"] == "POST"){
     $cliente =[
         "nome"  => $_POST["nome"],
         "email" => $_POST["email"]

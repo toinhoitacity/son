@@ -12,9 +12,9 @@
         <?php if(count($lista_clientes) > 0):?>
             <?php foreach($lista_clientes as $id => $cliente):?>
                 <tr>
-                    <td><a href="index.php?page=editar_cliente&id=<?=$id;?>"><?=$id;?></a></td>
-                    <td><?=$cliente["nome"]?></td>
-                    <td><?=$cliente["email"]?></td>
+                    <td><a href="index.php?page=editar-cliente&id=<?=$id;?>"><?=$id;?></a></td>
+                    <td><a href="index.php?page=editar-cliente&id=<?=$id;?>"><?=$cliente["nome"]?></a></td>
+                    <td><a href="index.php?page=editar-cliente&id=<?=$id;?>"><?=$cliente["email"]?></a></td>
                 </tr>
             <?php endforeach;?>
         <?php endif; ?>

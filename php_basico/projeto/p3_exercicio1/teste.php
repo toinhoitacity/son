@@ -1,14 +1,14 @@
 <?php session_start(); ?>
-<h2>Escolha uma das acoes abaixo</h2>
-<ul>
-    <li><a href="teste.php?acao=criar_vet_cookie">criar_vet_cookie</a></li>
-    <li><a href="teste.php?acao=destruir_vet_cookie">destruir_vet_cookie</a></li>
-    <li><a href="teste.php?acao=ver_vet_cookie">ver_vet_cookie</a></li>
-    <li><a href="teste.php?acao=criar_vet_admin">criar_vet_admin</a></li>
-    <li><a href="teste.php?acao=destruir_vet_admin">destruir_vet_admin</a></li>
-    <li><a href="teste.php?acao=ver_vet_admin">ver_vet_admin</a></li>
-    <li><a href="teste.php?acao=verifica_logado">verifica_logado</a></li>
-</ul>
+    <h2>Escolha uma das acoes abaixo</h2>
+    <ul>
+        <li><a href="teste.php?acao=criar_vet_cookie">criar_vet_cookie</a></li>
+        <li><a href="teste.php?acao=destruir_vet_cookie">destruir_vet_cookie</a></li>
+        <li><a href="teste.php?acao=ver_vet_cookie">ver_vet_cookie</a></li>
+        <li><a href="teste.php?acao=criar_vet_admin">criar_vet_admin</a></li>
+        <li><a href="teste.php?acao=destruir_vet_admin">destruir_vet_admin</a></li>
+        <li><a href="teste.php?acao=ver_vet_admin">ver_vet_admin</a></li>
+        <li><a href="teste.php?acao=verifica_logado">verifica_logado</a></li>
+    </ul>
 <?php if(isset($_GET["acao"]) && $_GET["acao"] == "criar_vet_cookie"):?>
     <?php
     $vet_clientes = [

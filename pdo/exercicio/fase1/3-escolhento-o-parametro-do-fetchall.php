@@ -7,7 +7,7 @@ try{
 
     /*Como atributos para o método fetchAll temos várias constantes na classe estatica PDO*/
     $resultado = $stmt->fetchAll(PDO::FETCH_BOTH);//É o padrão. Retorna um array de keys e associativo
-    $resultado = $stmt->fetchAll(PDO::FETCH_COLUMN);//Retorna como um array de keys
+    $resultado = $stmt->fetchAll(PDO::FETCH_COLUMN);//Retorna como um array de numerativo
     $resultado = $stmt->fetchAll(PDO::FETCH_ASSOC);//Retorna como um array associativo
     $resultado = $stmt->fetchAll(PDO::FETCH_CLASS);//Retorna como um array de objetos
 

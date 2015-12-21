@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +25,8 @@ $clientes = [
     8 => new Cliente("Irineia", 30, "R1", "981677667"),
     9 => new Cliente("João", 30, "R1", "981677667")
 ];
+
+$_SESSION["clientes"] = serialize($clientes);
 ?>
 
 <div class="container">
@@ -40,7 +45,7 @@ $clientes = [
 <?php if( isset($_GET["id"]) ):?>
     <?php for($i=count($clientes)-1; $i>0; $i--):?>
         <tr>
-            <td><?=$i;?></td>
+            <td><a href="cliente.php?id=<?=$i?>"><?=$i;?></a></td>
             <td><?=$clientes[$i]->getNome();?></td>
             <td><?=$clientes[$i]->getIdade();?></td>
             <td><?=$clientes[$i]->getEndereco();?></td>
@@ -50,7 +55,7 @@ $clientes = [
 <?php else: ?>
     <?php for($i=0; $i<count($clientes)-1; $i++):?>
         <tr>
-            <td><?=$i;?></td>
+            <td><a href="cliente.php?id=<?=$i?>"><?=$i;?></a></td>
             <td><?=$clientes[$i]->getNome();?></td>
             <td><?=$clientes[$i]->getIdade();?></td>
             <td><?=$clientes[$i]->getEndereco();?></td>

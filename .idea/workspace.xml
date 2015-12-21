@@ -32,14 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/projeto/p1/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.333713">
-              <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+            <state vertical-scroll-proportion="-25.333334">
+              <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
               <folding>
-                <marker date="1450738581298" expanded="true" signature="1354:1372" placeholder="..." />
+                <marker date="1450740697867" expanded="true" signature="1427:1445" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poo/projeto/p1/cliente.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30751708">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pdo/exercicio/index.php" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/escola.sql" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/header.php" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/index.php" />
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/poo/projeto/p1/index.html" />
         <option value="$PROJECT_DIR$/poo/projeto/p1/Cliente.php" />
         <option value="$PROJECT_DIR$/poo/projeto/p1/index.php" />
+        <option value="$PROJECT_DIR$/poo/projeto/p1/cliente.php" />
       </list>
     </option>
   </component>
@@ -415,13 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pdo/projeto/p1_exercicio1/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pdo/projeto/p1_exercicio1/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10489511">
@@ -690,7 +693,7 @@
         <state vertical-scroll-proportion="-22.5">
           <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
+            <element signature="e#6#87#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,7 +767,7 @@
         <state vertical-scroll-proportion="-5.625">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
+            <element signature="e#6#87#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -787,11 +790,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/projeto/p1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.333713">
-          <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+        <state vertical-scroll-proportion="-25.333334">
+          <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
           <folding>
-            <marker date="1450738581298" expanded="true" signature="1354:1372" placeholder="..." />
+            <marker date="1450740697867" expanded="true" signature="1427:1445" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/projeto/p1/cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30751708">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

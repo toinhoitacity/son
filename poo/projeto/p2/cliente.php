@@ -43,6 +43,8 @@ $clientes = unserialize($_SESSION["clientes"]);
                     <input type="text" id="disabledTextInput" class="form-control" placeholder="<?=$clientes[$_GET["id"]]->getImportancia();?>">
                     <label for="disabledTextInput">Endereço de Cobrança</label>
                     <input type="text" id="disabledTextInput" class="form-control" placeholder="<?=$clientes[$_GET["id"]]->getEnderecoCobranca();?>">
+                    <label for="disabledTextInput">Tipo de Pessoa</label>
+                    <input type="text" id="disabledTextInput" class="form-control" placeholder="<?=( $clientes[$_GET["id"]] instanceof ClientePF )?"Pessoa Físita":"Pessoa Jurídica"?>">
                 </div>
             </fieldset>
         </form>

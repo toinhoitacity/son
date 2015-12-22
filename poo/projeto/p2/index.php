@@ -43,6 +43,7 @@ $_SESSION["clientes"] = serialize($clientes);
             <th>Telefone</th>
             <th>Importância</th>
             <th>Endereço de Cobrança</th>
+            <th>Tipo de Cliente</th>
         </tr>
         </thead>
         <tbody>
@@ -56,6 +57,7 @@ $_SESSION["clientes"] = serialize($clientes);
             <td><?=$clientes[$i]->getNumTelefone();?></td>
             <td><?=$clientes[$i]->getImportancia();?></td>
             <td><?=$clientes[$i]->getEnderecoCobranca();?></td>
+            <td><?=( $clientes[$i] instanceof ClientePF )?"Pessoa Físita":"Pessoa Jurídica"?></td>
         </tr>
     <?php endfor;?>
 <?php else: ?>
@@ -68,6 +70,7 @@ $_SESSION["clientes"] = serialize($clientes);
             <td><?=$clientes[$i]->getNumTelefone();?></td>
             <td><?=$clientes[$i]->getImportancia();?></td>
             <td><?=$clientes[$i]->getEnderecoCobranca();?></td>
+            <td><?=( $clientes[$i] instanceof ClientePF )?"Pessoa Físita":"Pessoa Jurídica"?></td>
         </tr>
     <?php endfor;?>
 <?php endif; ?>

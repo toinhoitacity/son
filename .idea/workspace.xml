@@ -22,34 +22,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Cliente.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/projeto/p1/Cliente.php">
+      <file leaf-file-name="Produto.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/Produto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.458334">
-              <caret line="82" column="34" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="34" />
+            <state vertical-scroll-proportion="5.5833335">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/projeto/p1/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.333334">
-              <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.27088037">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <marker date="1450740697867" expanded="true" signature="1427:1445" placeholder="..." />
+                <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cliente.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/poo/projeto/p1/cliente.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30751708">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -66,13 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/escola.sql" />
-        <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/header.php" />
-        <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio1/index.php" />
-        <option value="$PROJECT_DIR$/pdo/exercicio/Fase 2/Cliente.php" />
-        <option value="$PROJECT_DIR$/pdo/exercicio/Fase 2/index.php" />
-        <option value="$PROJECT_DIR$/pdo/exercicio/fase2/Cliente.php" />
-        <option value="$PROJECT_DIR$/pdo/exercicio/fase2/index.php" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio2/aluno.php" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio2/index.php" />
         <option value="$PROJECT_DIR$/pdo/projeto/p1_exercicio2/util.php" />
@@ -117,6 +100,13 @@
         <option value="$PROJECT_DIR$/poo/projeto/p1/Cliente.php" />
         <option value="$PROJECT_DIR$/poo/projeto/p1/index.php" />
         <option value="$PROJECT_DIR$/poo/projeto/p1/cliente.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/Tenis.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/banco/index.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/banco/Conta.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/banco/ContaPremium.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/banco/Produto.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/Produto.php" />
+        <option value="$PROJECT_DIR$/poo/exercicio/fase2/index.php" />
       </list>
     </option>
   </component>
@@ -132,9 +122,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
-    <option name="width" value="1686" />
-    <option name="height" value="1052" />
+    <option name="x" value="1677" />
+    <option name="width" value="1926" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -205,10 +195,6 @@
               <option name="myItemId" value="projeto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="p1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -221,14 +207,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="poo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercicio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fase1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,11 +295,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poo/exercicio/fase2/banco" />
+      <recent name="$PROJECT_DIR$/poo/exercicio/fase2" />
       <recent name="$PROJECT_DIR$/pdo/projeto" />
       <recent name="$PROJECT_DIR$/pdo/exercicio/fase3/passo3" />
       <recent name="$PROJECT_DIR$/pdo/exercicio/fase3/passo2" />
-      <recent name="$PROJECT_DIR$/pdo/exercicio/fase3/passo1" />
-      <recent name="$PROJECT_DIR$/pdo/exercicio/fase3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/poo/exercicio/fase1" />
@@ -386,10 +364,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1686" height="1052" extended-state="6" />
-    <editor active="true" />
+    <frame x="1677" y="0" width="1926" height="1060" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20714286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935413" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -425,55 +403,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pdo/projeto/p1_exercicio1/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10489511">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_basico/projeto/p3_exercicio1/cadastra-cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26595744">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdo/exercicio/fase1/1-trabalhando-com-exec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdo/projeto/p1_exercicio1/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.0">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdo/exercicio/fase2/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_basico/projeto/p3_exercicio1/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="18" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_basico/projeto/p3_exercicio1/teste.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2393616">
-          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pdo/exercicio/fase2/Cliente.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4783599">
@@ -722,14 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase1/Produto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poo/exercicio/fase1/SapaTenis.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
@@ -793,16 +714,82 @@
         <state vertical-scroll-proportion="-25.333334">
           <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
           <folding>
-            <marker date="1450740697867" expanded="true" signature="1427:1445" placeholder="..." />
+            <marker date="1450740697867" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/projeto/p1/cliente.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30751708">
+        <state vertical-scroll-proportion="0.30857143">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase1/Produto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/Tenis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/banco/Conta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/banco/ContaPremium.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/banco/Produto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-54.375">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/banco/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/Produto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.5833335">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/exercicio/fase2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27088037">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

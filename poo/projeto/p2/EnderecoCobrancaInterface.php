@@ -8,5 +8,7 @@
  */
 interface EnderecoCobrancaInterface
 {
+    public function getEnderecoCobranca();
 
+    public function setEnderecoCobranca($enderecoCobranca);
 }

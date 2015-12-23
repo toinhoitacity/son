@@ -1,4 +1,5 @@
 <?php
+require_once "Cliente.php";
 
 class ClientePF extends Cliente
 {

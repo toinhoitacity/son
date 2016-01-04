@@ -5,6 +5,6 @@ echo get_include_path();
 //exit();
 spl_autoload_register();
 
-$x = new SON\Conta\Type\Conta();
+$x = new SON\Conta\Type\ContaType();
 $x->depositar(10);
 echo $x->getSaldo();

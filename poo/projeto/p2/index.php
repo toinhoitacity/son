@@ -50,7 +50,7 @@ $_SESSION["clientes"] = serialize($clientes);
 <?php if( isset($_GET["id"]) ):?>
     <?php for($i=count($clientes)-1; $i>0; $i--):?>
         <tr>
-            <td><a href="cliente.php?id=<?=$i?>"><?=$i;?></a></td>
+            <td><a href="cliente-front.php?id=<?=$i?>"><?=$i;?></a></td>
             <td><?=$clientes[$i]->getNome();?></td>
             <td><?=$clientes[$i]->getIdade();?></td>
             <td><?=$clientes[$i]->getEndereco();?></td>
@@ -63,7 +63,7 @@ $_SESSION["clientes"] = serialize($clientes);
 <?php else: ?>
     <?php for($i=0; $i<count($clientes)-1; $i++):?>
         <tr>
-            <td><a href="cliente.php?id=<?=$i?>"><?=$i;?></a></td>
+            <td><a href="cliente-front.php?id=<?=$i?>"><?=$i;?></a></td>
             <td><?=$clientes[$i]->getNome();?></td>
             <td><?=$clientes[$i]->getIdade();?></td>
             <td><?=$clientes[$i]->getEndereco();?></td>
